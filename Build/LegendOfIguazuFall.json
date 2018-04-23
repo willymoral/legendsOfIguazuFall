@@ -1,0 +1,13 @@
+{
+"companyName": "WillyArt",
+"productName": "Legend of Iguazu Falls",
+"dataUrl": "LegendOfIguazuFall.data.unityweb",
+"asmCodeUrl": "LegendOfIguazuFall.asm.code.unityweb",
+"asmMemoryUrl": "LegendOfIguazuFall.asm.memory.unityweb",
+"asmFrameworkUrl": "LegendOfIguazuFall.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
